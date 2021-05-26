@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=Lline1\ Lline2\ Lline3\ Lline4\ Lline5\ Lline6\ Lline7\ Loffset1\ Loffset2\ Loffset3\ Loffset4\ Loffset5\ Loffset6\ Loffset7
+comment0.target=WritingController(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ WritingController\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

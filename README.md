@@ -1,5 +1,5 @@
 # APUSH-board-game
-An old AP US History 1920’s board game
+An early board game project built with Java.
 
 
 PROJECT TITLE: AP US History 1920’s board game

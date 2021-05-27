@@ -11,11 +11,11 @@ PURPOSE OF PROJECT: A virtual board game I created during high school a few year
 VERSION or DATE: v1.0 February 2014
 
 
-HOW TO START THIS PROJECT: This is an old project. No new work on it will be done. I’ve often daydreamed about going back and refactoring this beginner code but each time I come to the conclusion that it wouldn’t be worth my time. 
+HOW TO START THIS PROJECT: Simply open the executable file called “Pascal - APUSH game” to start the game. 
 
 
-AUTHORS: Pascal Ibe
+AUTHORS: Pascal G. Ibe
 
 
-USER INSTRUCTIONS: Simply open the executable file called “Pascal - APUSH game” to start the game.
+USER INSTRUCTIONS: Enter a number for the amount of players and click "Run" when the application opens. On each player's turn, first click the die to roll it and see how many spaces you can move. Then click the card stack to get a question. The card up top will be the prompt card. The player will have to select one of the four cards on the bottom which matches the prompt. If they select the right card then they can move the number of spaces on the dice and gain a point. If not, then the turn will move on to the next player. After a player accumulates 15 points and they make it back to where they originated on the board (on the board space in front of one of the 4 bridges to the center that corresponds to your token color) they will be able to reach the center and win the game.
 
